@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd u+x+r+w cdir/hello
+chomd 744 hello
