@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd u+x cdir/hello
+chomd u+x+r+w cdir/hello
